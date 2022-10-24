@@ -50,6 +50,15 @@
             </sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/utkarsh1236">
+            <img src="https://avatars.githubusercontent.com/u/110242820?v=4" width="100px;" alt="Utkarsh Jha"/>
+            <br />
+            <sub>
+                <b>Prakhar Gupta</b>
+            </sub>
+        </a>
+    </td>
   </tr>
 </table>
 
