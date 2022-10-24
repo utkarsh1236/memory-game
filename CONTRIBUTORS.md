@@ -55,7 +55,7 @@
             <img src="https://avatars.githubusercontent.com/u/110242820?v=4" width="100px;" alt="Utkarsh Jha"/>
             <br />
             <sub>
-                <b>Prakhar Gupta</b>
+                <b>Utkarsh Jha</b>
             </sub>
         </a>
     </td>
